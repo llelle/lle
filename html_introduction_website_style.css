@@ -1,0 +1,11 @@
+body{
+    background-color: aliceblue;
+}
+.select{
+    width: 100px;
+    font-size: large;
+    background-color: purple;
+}
+.header{
+    background-color: pink;
+}
